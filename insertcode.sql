@@ -4,9 +4,9 @@ insert into SUPPLIER values
 ('260565099', 'United States', 'Ca', '774 Annamark Crossing', 'Brightbean', 'Garden', '7AM-7PM', '909-240-9343');
 insert into SUPPLIER values
 ('528957289', 'United States', 'Fl', '78390 Ilene Junction', 'Devcast', 'Outdoors', '10AM-4PM', '239-406-2393');
-insert into Supplier values
+insert into SUPPLIER values
 ('580403445', 'United States', 'Fl', '73 Talisman Crossing', 'Gevee', 'Baby', '11AM-7PM', '904-520-0892');
-insert into Supplier values
+insert into SUPPLIER values
 ('667518733', 'United States', 'Tx', '11159 Logan Center', 'Talane', 'Grocery', '9AM-6PM', '504-248-0233');
 
 
